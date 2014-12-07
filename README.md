@@ -1,3 +1,5 @@
+##Important:
+The codes expect the data "household_power_consumption.txt" in the current directory
 ## Introduction
 
 This assignment uses data from
